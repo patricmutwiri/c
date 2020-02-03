@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1580143761 source:/home/patrick/Documents/ClassWork/Jan-Apr-2020/Programming Methodologies/Code/sizeof/main.c
+	<stdio.h>
+	<stdlib.h>
+
